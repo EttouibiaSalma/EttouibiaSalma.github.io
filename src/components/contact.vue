@@ -10,7 +10,7 @@
         >
           Get in touch
         </h2>
-        <p class="dark:text-white text-left leading-7">
+        <p class="dark:text-white text-justify leading-7">
           Hi there 👋, if you have any inqueries or feedback don't hesitate to
           fill the form bellow, or you can reach me out in other social media
           plateforms:

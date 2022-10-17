@@ -13,7 +13,7 @@
           class="dark:text-lightgrey text-4xl leading-15 font-bold text-blue"
           >My name is Ettouibia Selma,
         </span>
-        <p class="pt-4 leading-7 dark:text-white w-3/4">
+        <p class="pt-4 leading-7 dark:text-white text-justify w-3/4">
           I'm a software engineer with a passion for developing innovative
           solutions with high quality and performance that fulfills customer
           needs. Aiming to leverage the proven and expanding knowledge through

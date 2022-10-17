@@ -16,14 +16,14 @@
             <h5 class="text-lg text-yellow text-center items-center font-bold">
               Anti Fraud System
             </h5>
-            <p class="text-sm text-darkGrayishBlue leading-6 pt-2">
+            <p class="text-sm text-justify text-darkGrayishBlue leading-6 pt-2">
               A RESTfull web service that covers fundamentals of fraud detection
               and rule-based systems. A system with an expanded role model, a
               set of REST endpoints responsible for interacting with users, and
               an internal transaction validation logic based on a set of
               heuristic rules.
             </p>
-            <p class="text-sm text-darkGrayishBlue leading-6 pt-2">
+            <p class="text-sm text-justify text-darkGrayishBlue leading-6 pt-2">
               <strong>Technologies & tools:</strong> Spring Boot, Spring MVC,
               Spring Security, Spring Data JPA, H2 database, and Spring
               actuator.
@@ -41,14 +41,14 @@
             <h5 class="text-lg text-yellow text-center items-center font-bold">
               Reddit Clone
             </h5>
-            <p class="text-sm text-darkGrayishBlue leading-6 pt-2">
+            <p class="text-sm text-justify text-darkGrayishBlue leading-6 pt-2">
               A clone of the famous American social news aggregation, content
               rating, and discussion website. It's is a social news site where
               users create and share content.
             </p>
-            <p class="text-sm text-darkGrayishBlue pt-2 leading-6">
+            <p class="text-sm text-justify text-darkGrayishBlue pt-2 leading-6">
               <strong>Technologies & tools:</strong> Spring Boot, Spring MVC,
-              Spring Security with JWT authentication , Spring Data JPA with
+              Spring Security with JWT authentication, Spring Data JPA with
               MySQL, and Angular.
             </p>
             <a

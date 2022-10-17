@@ -1,7 +1,7 @@
 <template>
   <div class="" id="about">
     <div class="flex container flex-col md:flex-row p-8 items-center mx-auto">
-      <div class="hidden md:block contact-pic">
+      <div class="hidden md:block mr-5 contact-pic">
         <img
           v-if="isDark"
           class=""
@@ -15,13 +15,13 @@
           alt="coding"
         />
       </div>
-      <div class="form w-full pl-10 md:pl-0">
+      <div class="form w-full">
         <h2
           class="dark:text-lightgrey font-bold mb-8 text-2xl text-left text-gray-800 underline decoration-yellow decoration-4 underline-offset-8 space-x-8"
         >
           About me
         </h2>
-        <p class="dark:text-white text-left w-3/4 leading-8">
+        <p class="dark:text-white text-left w-3/4 text-justify leading-8">
           I'm Selma a software engineer from Morocco, I've recently graduated
           with a master's degree in computer systems engineering. I've been
           always passionate about software engineering, through my past
