@@ -60,7 +60,7 @@ export default {
   data() {
     return {
       darkElement: false,
-      path: "https://ettouibiasalma.github.io/My_Portfolio",
+      path: "https://ettouibiasalma.github.io",
     };
   },
   mounted() {

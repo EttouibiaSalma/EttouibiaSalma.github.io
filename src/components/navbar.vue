@@ -70,7 +70,7 @@ export default {
     return {
       isDark: false,
       isOpen: false,
-      path: "https://ettouibiasalma.github.io/My_Portfolio",
+      path: "https://ettouibiasalma.github.io",
     };
   },
   methods: {
