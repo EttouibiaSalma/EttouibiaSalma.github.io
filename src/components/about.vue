@@ -15,7 +15,7 @@
           alt="coding"
         />
       </div>
-      <div class="form w-full pl-10">
+      <div class="form w-full pl-10 md:pl-0">
         <h2
           class="dark:text-lightgrey font-bold mb-8 text-2xl text-left text-gray-800 underline decoration-yellow decoration-4 underline-offset-8 space-x-8"
         >
