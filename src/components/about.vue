@@ -21,7 +21,9 @@
         >
           About me
         </h2>
-        <p class="dark:text-white text-left w-3/4 text-justify leading-8">
+        <p
+          class="dark:text-white text-left lg:w-3/4 w-full text-justify leading-8"
+        >
           I'm Selma a software engineer from Morocco, I've recently graduated
           with a master's degree in computer systems engineering. I've been
           always passionate about software engineering, through my past
