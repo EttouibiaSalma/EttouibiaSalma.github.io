@@ -46,6 +46,18 @@
         </div>
         <div class="technologies grid grid-cols-3 md:grid-cols-6 gap-4">
           <div
+            class="flex flex-col transition hover:duration-300 ease-in-out transform hover:scale-110 bg-white rounded-lg justify-center shadow"
+          >
+            <div class="flex justify-center">
+              <img
+                class="w-30 h-28 p-2"
+                :src="`${path}/assets/images/stack/java.jpeg`"
+                alt=""
+              />
+            </div>
+            <strong>Java</strong>
+          </div>
+          <div
             class="flex flex-col transition hover:duration-300 ease-in-out transform hover:scale-110 bg-white rounded-lg shadow"
           >
             <div class="flex justify-center">
@@ -154,19 +166,6 @@
               alt=""
             />
             <strong>Docker</strong>
-          </div>
-
-          <div
-            class="flex flex-col transition hover:duration-300 ease-in-out transform hover:scale-110 bg-white rounded-lg justify-center shadow"
-          >
-            <div class="flex justify-center">
-              <img
-                class="w-30 h-28 p-2"
-                :src="`${path}/assets/images/stack/google-cloud.png`"
-                alt=""
-              />
-            </div>
-            <strong>Google Cloud</strong>
           </div>
 
           <div
