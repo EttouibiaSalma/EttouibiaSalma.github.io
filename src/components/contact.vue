@@ -139,7 +139,7 @@ export default {
         message: "",
       },
       isDark: false,
-      path: "https://ettouibiasalma.github.io",
+      path: "https://eselmaa.github.io",
       errors: {
         fullname: undefined,
         email: undefined,
