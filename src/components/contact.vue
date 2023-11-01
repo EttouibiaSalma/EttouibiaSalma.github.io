@@ -139,7 +139,7 @@ export default {
         message: "",
       },
       isDark: false,
-      path: "https://eselmaa.github.io",
+      path: "https://eselma.tech",
       errors: {
         fullname: undefined,
         email: undefined,

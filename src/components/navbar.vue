@@ -70,7 +70,7 @@ export default {
     return {
       isDark: false,
       isOpen: false,
-      path: "https://eselmaa.github.io",
+      path: "https://eselma.tech",
     };
   },
   methods: {

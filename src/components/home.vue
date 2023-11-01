@@ -60,7 +60,7 @@ export default {
   data() {
     return {
       darkElement: false,
-      path: "https://eselmaa.github.io",
+      path: "https://eselma.tech",
     };
   },
   mounted() {

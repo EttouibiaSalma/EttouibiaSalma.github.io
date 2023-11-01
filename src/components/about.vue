@@ -204,7 +204,7 @@ export default {
   data() {
     return {
       isDark: false,
-      path: "https://eselmaa.github.io",
+      path: "https://eselma.tech",
     };
   },
   mounted() {
